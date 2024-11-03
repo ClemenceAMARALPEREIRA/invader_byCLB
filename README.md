@@ -2,7 +2,7 @@
 
 Créez vos propres Space Invaders en Pixel Art !
 
-![Resultat_Invader](./invader_img.png)
+![Resultat_Invader](invader_img.png)
 
 Invader est une application web interactive qui vous permet de créer vos propres dessins en pixel art, dans le style du jeu vidéo classique Space Invaders.  Dessinez des aliens, des vaisseaux spatiaux, et tout ce que votre imagination vous inspire ! L'application offre une interface simple d'utilisation avec des options de personnalisation pour la taille de la grille, la taille des pixels et une palette de couleurs variée.
 
@@ -16,7 +16,6 @@ Invader est une application web interactive qui vous permet de créer vos propre
 ## Utilisation
 
 Pour utiliser Invader, il vous suffit d'ouvrir le fichier `index.html` dans votre navigateur web.  Cliquez sur les pixels de la grille pour les colorier et utilisez les options du formulaire pour personnaliser votre dessin.
-
 
 ## Contribution
 
