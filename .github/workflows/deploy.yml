@@ -5,6 +5,10 @@ on:
     branches:
       - main  # Déclencher le workflow à chaque push sur la branche main
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
