@@ -17,11 +17,8 @@ Invader est une application web interactive qui vous permet de créer vos propre
 
 Pour utiliser Invader, il vous suffit d'ouvrir le fichier `index.html` dans votre navigateur web.  Cliquez sur les pixels de la grille pour les colorier et utilisez les options du formulaire pour personnaliser votre dessin.
 
-<<<<<<< HEAD
-=======
 [Voir le resultat](https://invader-by-clb.vercel.app/)
 
->>>>>>> 4db901d6e4936e72930df01b2d3fa8e647e91a73
 ## Contribution
 
 N'hésitez pas à forker ce projet et à proposer vos propres améliorations !
